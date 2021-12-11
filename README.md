@@ -1,4 +1,4 @@
-# My Universal React Project
+# UBER GIANT CLONE
 
 <p>
   <!-- iOS -->
