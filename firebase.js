@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCsgb5Ri0DRK9gE0nJ0PYCh9BLByhbJatE",
+  apiKey: PROCESS.ENV.GOOGLE_KEY,
   authDomain: "rn-uber-eats-clone-yt.firebaseapp.com",
   projectId: "rn-uber-eats-clone-yt",
   storageBucket: "rn-uber-eats-clone-yt.appspot.com",
